@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\tamik\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\tamik\\.nuget\\packages"
+    ]
+  }
+}
